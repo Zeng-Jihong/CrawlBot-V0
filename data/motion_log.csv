@@ -1,0 +1,12 @@
+step,x,y,direction
+0,0,0,start
+1,1,0,right
+2,2,0,right
+3,3,0,right
+4,4,0,right
+5,5,0,right
+6,5,-1,down
+7,5,-2,down
+8,5,-3,down
+9,5,-4,down
+10,5,-5,down
